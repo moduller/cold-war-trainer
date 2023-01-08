@@ -1,0 +1,10 @@
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\BLAZN V3.exe.config
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\BLAZN V3.exe
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\BLAZN V3.pdb
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN V3.csprojAssemblyReference.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN_V3.MainForm.resources
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN_V3.Properties.Resources.resources
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN V3.csproj.GenerateResource.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN V3.csproj.CoreCompileInputs.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN V3.exe
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN V3.pdb

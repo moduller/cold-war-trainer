@@ -1,0 +1,12 @@
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\x64\Release\BLAZN V3.exe.config
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\x64\Release\BLAZN V3.exe
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\x64\Release\BLAZN V3.pdb
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\x64\Release\Bunifu_UI_v1.52.dll
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\x64\Release\BLAZN V3.csprojAssemblyReference.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\x64\Release\BLAZN_V3.MainForm.resources
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\x64\Release\BLAZN_V3.Properties.Resources.resources
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\x64\Release\BLAZN V3.csproj.GenerateResource.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\x64\Release\BLAZN V3.csproj.CoreCompileInputs.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\x64\Release\BLAZN V3.csproj.CopyComplete
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\x64\Release\BLAZN V3.exe
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\x64\Release\BLAZN V3.pdb

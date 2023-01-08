@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Release\BLUE.exe.config
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Release\BLUE.exe
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Release\BLUE.pdb
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Release\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Release\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Release\BLAZN.MainForm.resources
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Release\BLAZN.Properties.Resources.resources
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Release\BLAZN.csproj.GenerateResource.cache
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Release\BLAZN.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Release\BLAZN.csproj.CopyComplete
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Release\BLUE.exe
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Release\BLUE.pdb

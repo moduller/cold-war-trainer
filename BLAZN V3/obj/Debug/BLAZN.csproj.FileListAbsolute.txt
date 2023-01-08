@@ -1,0 +1,27 @@
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\BLAZN.exe.config
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\BLAZN.exe
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\BLAZN.pdb
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.csprojAssemblyReference.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.MainForm.resources
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.Properties.Resources.resources
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.csproj.GenerateResource.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.csproj.CoreCompileInputs.cache
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.csproj.CopyComplete
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.exe
+C:\Users\blazn\source\repos\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.pdb
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Debug\LAZIN.exe.config
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Debug\LAZIN.exe
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Debug\LAZIN.pdb
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.MainForm.resources
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.Properties.Resources.resources
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Debug\BLAZN.csproj.CopyComplete
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Debug\LAZIN.exe
+C:\Users\David\Desktop\Tool - menu ZIP's\BLAZN_V3v2\BLAZN V3\BLAZN V3\obj\Debug\LAZIN.pdb

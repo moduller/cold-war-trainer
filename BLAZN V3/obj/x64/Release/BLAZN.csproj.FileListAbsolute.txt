@@ -1,0 +1,2 @@
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\x64\Release\BLUE.exe
+C:\Users\David\Desktop\BLAZN_V3v2\BLAZN V3\BLAZN V3\bin\x64\Release\Bunifu_UI_v1.52.dll
